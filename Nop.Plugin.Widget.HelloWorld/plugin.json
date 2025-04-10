@@ -1,0 +1,11 @@
+{
+  "Group": "Widget",
+  "FriendlyName": "Hello World",
+  "SystemName": "Wiget.HelloWorld",
+  "Version": "4.80.3",
+  "SupportedVersions": [ "4.80" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Wiget.HelloWorld.dll",
+  "Description": "This is my first plugin"
+}
